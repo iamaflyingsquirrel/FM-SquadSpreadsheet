@@ -8,8 +8,9 @@ It was tested on FM19, 20, and 21, but I make no promises that it works perfectl
 
 As a firm believer in starting at the bottom, my backroom staff are generally awful, and so a while back I searched around for a spreadsheet that I could export my squad into, in order to get a better understanding of just what I'd let myself in for.  Unfortunately, all of the spreadsheet tools I could find were either overly simplistic or out of date, and so I created this...lunacy.
 
+<a href="https://drive.google.com/uc?export=view&id=1_Fbf1kTX6fY7ki8wiBoimFdXIMZ5HYuu"><img src="https://drive.google.com/uc?export=view&id=1_Fbf1kTX6fY7ki8wiBoimFdXIMZ5HYuu" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
-There is a readme tab (along with the screenshots) in the spreadsheet which should be read but essentially the steps are:
+There is a readme tab in the spreadsheet which should be read but essentially the steps are:
 
     1. Import the custom view to FM
 
@@ -30,6 +31,8 @@ Anyway, enough words. There's a list of concerns/issues on the readme tab, if an
 - Players are highlighted in green text if they are the best player in their position
 
 - [Suggested Squad] uses position ranking and age to determine where they should go
+
+- The best outfield First Team and Reserve players to chuck in goal in an emergency are also highlighted
 
 - [Original Positions] the currently trained in positions, e.g. DM, AM, etc.
 
@@ -54,6 +57,8 @@ Anyway, enough words. There's a list of concerns/issues on the readme tab, if an
 
 - Can be useful to see what formations might work outside of your coach's recommendations
 
+<a href="https://drive.google.com/uc?export=view&id=14_4vJF6vKDpqrZyEnRb6bU9S-XbOA_yW"><img src="https://drive.google.com/uc?export=view&id=14_4vJF6vKDpqrZyEnRb6bU9S-XbOA_yW" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
 
 **[Individual Training]**
 
@@ -62,6 +67,9 @@ Anyway, enough words. There's a list of concerns/issues on the readme tab, if an
 - Attempts to recommend a training focus for each player, based on their suggested role's weakest area
 
 - Uses a traffic light system to highlight which attributes are weakest (grey is below 5, red is below 10, yellow is below 15, and green is below 20)
+
+<a href="https://drive.google.com/uc?export=view&id=1MO293XH617hurxY77IkXow0z11YfRIu7"><img src="https://drive.google.com/uc?export=view&id=1MO293XH617hurxY77IkXow0z11YfRIu7" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
 
 **Other Tabs**
 
