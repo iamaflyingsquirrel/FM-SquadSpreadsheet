@@ -68,6 +68,8 @@ Anyway, enough words. There's a list of concerns/issues on the readme tab, if an
 
 - Uses a traffic light system to highlight which attributes are weakest (grey is below 5, red is below 10, yellow is below 15, and green is below 20)
 
+- For example, A wingback's role includes Crossing, Dribbling, First Touch, Marking, Passing, Tackling, Technique, Anticipation, Concentration, Decisions, Off the Ball, Positioning, Teamwork, Work Rate, Acceleration, Agility, Pace, and Stamina.  The training focus 'Ball Control' covers Dribbling, First Touch, and Technique (so a wingback would get a score of 3), whereas the training focus 'Final Third' covers Composure and Decisions, and so a wingback gets a score of 1 (as only Decisions are matched).  These numbers are used to weight against a players attributes to work out which are the weakest for their role, and which training focus would improve them the most.
+
 <a href="https://drive.google.com/uc?export=view&id=1MO293XH617hurxY77IkXow0z11YfRIu7"><img src="https://drive.google.com/uc?export=view&id=1MO293XH617hurxY77IkXow0z11YfRIu7" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 
@@ -78,7 +80,6 @@ There are also 5 other tabs; WeightedParse, Training, Roles, Weights, and SquadE
 [WeightedParse] takes the exported squad html (which is imported to [SquadExport]) and weights them against the values in the [Weights] tab.  A striker would have different attribute requirements to a full back, and so this was an easy way of calculating which players had useful attributes.
 
 [Training] checks a role's attributes against each training focus to derive a 1-3 score
-For example, A wingback's role includes Crossing, Dribbling, First Touch, Marking, Passing, Tackling, Technique, Anticipation, Concentration, Decisions, Off the Ball, Positioning, Teamwork, Work Rate, Acceleration, Agility, Pace, and Stamina.  The training focus 'Ball Control' covers Dribbling, First Touch, and Technique (so a wingback would get a score of 3), whereas the training focus 'Final Third' covers Composure and Decisions, and so a wingback gets a score of 1 (as only Decisions are matched).  These numbers are used to weight against a players attributes to work out which are the weakest for their role, and which training focus would improve them the most.
 
 [Roles] were taken from the in game scout suggested attributes for each role
 
