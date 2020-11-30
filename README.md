@@ -6,7 +6,9 @@ It was tested on FM19, 20, and 21, but I make no promises that it works perfectl
 
 **Overview**
 
-As a firm believer in starting at the bottom, my backroom staff are generally awful, and so a while back I searched around for a spreadsheet that I could export my squad into, in order to get a better understanding of just what I'd let myself in for.  Unfortunately, all of the spreadsheet tools I could find were either overly simplistic or out of date, and so I created this...lunacy.
+As a firm believer in starting at the bottom, my backroom staff are generally awful, and so a while back I searched around for a spreadsheet that I could export my squad into, in order to get a better understanding of just what I'd let myself in for.  
+
+Unfortunately, all of the spreadsheet tools I could find were either overly simplistic or out of date, and so I created this...lunacy.
 
 <a href="https://drive.google.com/uc?export=view&id=1_Fbf1kTX6fY7ki8wiBoimFdXIMZ5HYuu"><img src="https://drive.google.com/uc?export=view&id=1_Fbf1kTX6fY7ki8wiBoimFdXIMZ5HYuu" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
