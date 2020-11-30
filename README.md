@@ -14,7 +14,7 @@ There is a readme tab in the spreadsheet which should be read but essentially th
 
     1. Import the custom view to FM
 
-    2. Export your squad to a html output (CTRL+P in squad view)
+    2. Export your squad to a html output using CTRL+P in squad view.  Remember to change to filter to show all other squads (under 19's, etc.)
 
     3. Delete the example data in the spreadsheet (SquadExport tab) and import your export using XML import
     
